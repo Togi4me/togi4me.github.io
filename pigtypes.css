@@ -1,0 +1,77 @@
+body {
+  font-family: Verdana, serif;
+  background-image: url("https://static.pexels.com/photos/326240/pexels-photo-326240.jpeg");
+}
+
+h1 {
+  color: DarkCyan;
+  font-size: 50px;
+  background-image: url("https://static.pexels.com/photos/174667/pexels-photo-174667.jpeg");
+  background-size: 80px 60px;
+  font-family: 'Permanent Marker', cursive;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'Chewy', Verdana, serif;
+  color: DarkCyan;
+  font-weight: bold;
+}
+
+td {
+  font-family: 'Chewy', Verdana, serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: DarkCyan;
+  display: block;
+}
+.RexTable {
+  float:left;
+}
+
+.AbyssinianTable{
+  float:left;
+}
+
+table {
+  border-style: dashed;
+  border-width: 5px;
+  border-color: LightSalmon;
+}
+
+.AmericanTable {
+  float:left;
+}
+.TeddyTable{
+  float:left;
+}
+.SkinnyTable {
+  float:left;
+}
+.PeruvianTable {
+  float:left;
+}
+.SheltieTable {
+  float: left;
+}
+.TexelTable {
+  float: left;
+}
+.HimalayanTable {
+  float: left;
+}
+.CuyTable {
+  float:left;
+}
+a:link {
+  color:Maroon;
+}
+a:visited {
+  color:Maroon;
+}
+a:hover {
+  color:RosyBrown;
+}
+a:active {
+  color:Maroon;
+}

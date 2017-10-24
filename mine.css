@@ -1,0 +1,76 @@
+body {
+  font-family: Verdana, serif;
+  background-image: url("https://static.pexels.com/photos/207253/pexels-photo-207253.jpeg");
+}
+
+h1 {
+  color: RebeccaPurple;
+  font-size: 50px;
+  background-image: url("https://static.pexels.com/photos/63853/guinea-pig-sea-pig-house-cute-guinea-pig-house-63853.jpeg");
+  background-size: 80px 60px;
+  font-family: 'Permanent Marker', cursive;
+}
+
+p {
+  font-size: 30px;
+  font-family: 'Chewy', Verdana, serif;
+  color: RebeccaPurple;
+  font-weight: bold;
+}
+.InfoParagraph {
+  float: right;
+  margin-right:225px;
+}
+
+.pigtures{
+  float:left;
+}
+table,th,td{
+  float:none;
+  border: 5px solid RebeccaPurple;
+  border-radius: 30px;
+  margin-left: 750px;
+  margin-top: 75px;
+  font-size:20px;
+  padding:15px;
+  border-spacing:10px;
+  background-color: PaleVioletRed;
+  font-family: 'Chewy', Verdana, serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.pigart{
+  margin-left:1250px;
+  margin-top:150px;
+}
+ul, li {
+  font-family: 'Chewy', Verdana, serif;
+  font-size:30px;
+  font-weight:bold;
+  color: RebeccaPurple;
+}
+
+.Disclaimer {
+  float: left;
+}
+
+/* Link Stuff */
+
+a:link {
+  color:RoyalBlue;
+}
+a:visited {
+  color:SlateGrey;
+}
+a:hover {
+  color:RosyBrown;
+}
+a:active {
+  color:PaleTurquoise;
+}
+
+video{
+  margin-left: 450px;
+  margin-top: 100px;
+}
