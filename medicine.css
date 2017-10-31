@@ -1,0 +1,19 @@
+body {
+  font-family: Verdana, serif;
+  background-image: url("https://static.pexels.com/photos/220182/pexels-photo-220182.jpeg");
+}
+
+h1 {
+  color: RoyalBlue;
+  font-size: 50px;
+  background-image: url("https://static.pexels.com/photos/248306/pexels-photo-248306.jpeg");
+  background-size: 80px 60px;
+  font-family: 'Permanent Marker', cursive;
+}
+
+p {
+  font-size: 40px;
+  font-family: 'Chewy', Verdana, serif;
+  color: RoyalBlue;
+  font-weight: bold;
+}
